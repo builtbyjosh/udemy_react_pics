@@ -22,5 +22,18 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-
-bLhzoY0gbCnOAVz7zvdLvDmLotFmTUMF4zDUywj3nGE
+## Removed from package.json
+,
+  "description": "Using create react app to set up skeleton",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/builtbyjosh/udemy_react_pics.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/builtbyjosh/udemy_react_pics/issues"
+  },
+  "homepage": "https://github.com/builtbyjosh/udemy_react_pics#readme"
